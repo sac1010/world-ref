@@ -2,15 +2,15 @@
 
 ## Description
 
- A web application for managing media files. It allows users to register and upload images and videos, view media files in fullscreen mode. Built with React js and tailwind CSS. Firebase has been used for authentication and database.
+A web application with a Login/ register feature and a homepage which displays the cards. Built using react js, tailwind css and firebase
 
 ## Screenshots
 
-![Screenshot 1](public/Screenshot%202024-03-16%20155955.png)
+![Screenshot 1](public/sc1.png)
 
-![Screenshot 2](public/Screenshot%202024-03-16%20160153.png)
+![Screenshot 2](public/sc2.png)
 
-![Screenshot 3](public/Screenshot%202024-03-16%20160351.png)
+![Screenshot 3](public/sc3.png)
 
 # Getting Started with Create React App
 
@@ -36,5 +36,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes.
 4. Test your changes thoroughly.
 5. Submit a pull request describing your changes.
-
-

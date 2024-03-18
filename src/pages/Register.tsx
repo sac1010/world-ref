@@ -50,7 +50,7 @@ const Register: React.FC = () => {
       });
       console.log(user);
     } catch (e: any) {
-      toast.error(e.message);
+      toast.error("Invalid credentials");
     }
   };
 

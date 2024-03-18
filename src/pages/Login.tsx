@@ -43,13 +43,13 @@ const Login: React.FC = () => {
       navigate("/");
       console.log(user);
     } catch (e: any) {
-      toast.error(e.message);
+      toast.error("User not found, Please Register");
     }
   };
 
   return (
     <div className="w-full h-screen bg-[#255c6d] flex items-center justify-around">
-      <img src="/bg.png" className="w-1/2 h-screen object-fill" alt="" />
+      <img src="/bg.jpg" className="w-1/2 h-screen object-cover" alt="" />
       <div className="w-1/2 h-screen flex items-center justify-center">
         <form onSubmit={handleSubmit} className="flex flex-col gap-6">
           <input
