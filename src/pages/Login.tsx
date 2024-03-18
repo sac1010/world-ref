@@ -49,7 +49,7 @@ const Login: React.FC = () => {
 
   return (
     <div className="w-full h-screen bg-[#255c6d] flex items-center justify-around">
-      <img src="/bg.jpg" className="w-1/2 h-screen object-cover" alt="" />
+      <img src="/bg.png" className="w-1/2 h-screen object-cover" alt="" />
       <div className="w-1/2 h-screen flex items-center justify-center">
         <form onSubmit={handleSubmit} className="flex flex-col gap-6">
           <input

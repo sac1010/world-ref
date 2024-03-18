@@ -4,6 +4,11 @@
 
 A web application with a Login/ register feature and a homepage which displays the cards. Built using react js, tailwind css and firebase
 
+## Testing
+use the below credentials or create a new account for testing
+email: sachingirish101@gmail.com
+password: 101010
+
 ## Screenshots
 
 ![Screenshot 1](public/sc1.png)
